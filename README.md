@@ -1,4 +1,4 @@
-# Parcel Delivery Simulation System
+# Parcel Delivery System
 
 This repository contains the code and files for a parcel delivery simulation system. The system simulates the transportation of parcels from source to destination cities using a graph-based approach.
 
