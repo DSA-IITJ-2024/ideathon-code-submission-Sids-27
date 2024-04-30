@@ -21,7 +21,7 @@ To run the test cases:
 
 ## Team Members
 
-- Siddhartha Singh (B2BB041)
+- Siddhartha Singh (B22BB041)
 - G Dileep (B22CH011)
 - Yash Kumar (B22MT047)
 - Ishaan Pandey (B22CI017)
