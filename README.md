@@ -18,3 +18,10 @@ To run the test cases:
 1. Compile the `test_case.cpp` file similarly to the main system.
 2. Run the resulting executable. It will use the information provided in `graph.txt` and `bookings.txt` to simulate the parcel delivery.
 3. Check the `test_result.txt` file to see the outcomes of the test cases.
+
+## Team Members
+
+- Siddhartha Singh (B2BB041)
+- G Dileep (B22CH011)
+- Yash Kumar (B22MT047)
+- Ishaan Pandey (B22CI017)
